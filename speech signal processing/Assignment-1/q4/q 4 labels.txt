@@ -1,0 +1,17 @@
+0.011652	1.062698	Silenced region
+0.058050	5.066150	silenced
+5.066150	5.156282	/I/ --> Plosive glottal
+5.066150	5.388567	/ I am / --> Voiced region
+5.156282	5.312358	Approximant palatal
+5.312358	5.388567	/M/ --> Nasal Bilabial
+5.413703	6.042932	silenced
+6.083121	6.441270	/ Son of / --> voiced
+6.089285	6.126720	plosive
+6.089285	6.241330	Fricattive alveolar
+6.243633	6.305258	Nasal Alveolar
+6.308713	6.374945	Approximant palattal 
+6.380704	6.441270	Fricative labiodental
+6.454423	6.675696	silenced
+6.684744	7.149790	/ Soundari / --> voiced
+6.687674	6.750450	plosive
+7.372336	10.797891	silenced

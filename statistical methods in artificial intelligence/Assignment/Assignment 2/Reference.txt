@@ -1,0 +1,9 @@
+Knn:
+https://github.com/python-engineer/MLfromscratch/blob/master/mlfromscratch/knn.py
+
+Logistic
+https://towardsdatascience.com/logistic-regression-from-scratch-in-python-ec66603592e2
+
+Linear
+https://ernesto.net/multiple-linear-regression-from-scratch-in-python/
+
